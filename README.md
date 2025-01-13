@@ -5,7 +5,7 @@
 
 
 - 🚩 Fullstack developer
-- 🌱 Currently learning Apex from Oracle, React, C++ & SpringBoot
+- 🌱 Currently learning Next.js
 
 ### Skills
 
