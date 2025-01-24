@@ -56,3 +56,9 @@
 #### Mobile Development
 ![Android](https://img.shields.io/badge/Android_Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+#### Work Methodologies
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
+![Scrumban](https://img.shields.io/badge/Scrumban-007ACC?style=for-the-badge&logo=kanban&logoColor=white)
+![Extreme Programming](https://img.shields.io/badge/Extreme_Programming-FF4500?style=for-the-badge&logo=extreme-programming&logoColor=white)
+
+
