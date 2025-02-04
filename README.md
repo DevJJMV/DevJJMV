@@ -5,7 +5,7 @@
 I am dedicated to continuously enhancing my skills and improving efficiency by utilizing tools that streamline development, such as frameworks, while exploring and experimenting with various programming languages. My preferred full-stack framework is Next.js, my current work language is Apex, and my favorite language for desktop application development is C# with WPF. Additionally, my favorite programming language overall is TypeScript.
 
 - 🚩 Fullstack developer
-- 🌱 Currently learning Next.js
+- 🌱 Currently learning Next.js & Apex 
 
 ### Skills
 
