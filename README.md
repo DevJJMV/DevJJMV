@@ -1,4 +1,4 @@
-## Hi, i'm DevJJMV (Juan José) 👋
+## Hi, i'm DevJJMV (Juan) 👋
 
 
 ## About me
