@@ -2,7 +2,7 @@ Hi, I'm DevJJMV (Juan) 👋
 About me
 I’m a software engineer who learns best by building and experimenting. My current focus is on Apex development within Salesforce, and I’m gradually building experience through real-world projects and mistakes that teach me more than any tutorial ever could.
 
-I'm not an expert in many of the technologies listed below — I use GitHub as a learning space, not a portfolio of mastery. My goal is to share my learning process transparently, and improve step-by-step without pretending to be what I’m not.
+I'm not an expert in many of the technologies listed below — I use GitHub as a learning space, not a portfolio of mastery. My goal is to share my learning process transparently.
 
 - 🚩 Always learning through trial and error
 - 🌱 Currently working with Apex (Salesforce)
