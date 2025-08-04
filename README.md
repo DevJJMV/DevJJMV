@@ -1,13 +1,15 @@
-## Hi, i'm DevJJMV (Juan) 👋
+Hi, I'm DevJJMV (Juan) 👋
+About me
+I’m a software engineer who learns best by building and experimenting. My current focus is on Apex development within Salesforce, and I’m gradually building experience through real-world projects and mistakes that teach me more than any tutorial ever could.
 
+I'm not an expert in many of the technologies listed below — I use GitHub as a learning space, not a portfolio of mastery. My goal is to share my learning process transparently, and improve step-by-step without pretending to be what I’m not.
 
-## About me
-I am dedicated to continuously enhancing my skills and improving efficiency by utilizing tools that streamline development, such as frameworks, while exploring and experimenting with various programming languages. My preferred full-stack framework is Next.js, my current work language is Apex, and my favorite language for desktop application development is C# with WPF. Additionally, my favorite programming language overall is TypeScript.
-
-- 🚩 Fullstack developer
-- 🌱 Currently learning Next.js & Apex 
+- 🚩 Always learning through trial and error
+- 🌱 Currently working with Apex (Salesforce)
+- ⚠️ Experience with Next.js is very limited — currently not in active use
 
 ### Skills
+Note: I’m at a beginner or exploratory level in most of the technologies below. This list represents tools I’ve studied or experimented with, not areas of expert knowledge.
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
